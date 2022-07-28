@@ -7,4 +7,7 @@ added some data
 then will push it into remote directory
 
 now time to practice push
-this is the second time
+this is the second t
+this time i will practice pull 
+for that have to write something 
+and pull on local repo.
